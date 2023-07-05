@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\Sabri\Desktop\Fizyoterapi.com\.metadata\.plugins\org.eclipse.jdt.core
+2783102299.index
+1865797976.index
+3608909898.index
